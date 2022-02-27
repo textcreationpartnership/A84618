@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Five vvonders seene in England. [brace] Two at Barnstable, one at Kirkham, one in Cornwall, one in Little Britain in London. In all which places whereby Gods judgements are miraculously seene upon some. Severall miraculous accidents have hapned to the amazement of all those that have beene eye-witnesses thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84618</idno>
+            <idno type="STC">Wing F1126</idno>
+            <idno type="STC">Thomason E349_1</idno>
+            <idno type="STC">ESTC R201020</idno>
+            <idno type="EEBO-CITATION">99861605</idno>
+            <idno type="PROQUEST">99861605</idno>
+            <idno type="VID">113743</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84618)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113743)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E349[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Five vvonders seene in England. [brace] Two at Barnstable, one at Kirkham, one in Cornwall, one in Little Britain in London. In all which places whereby Gods judgements are miraculously seene upon some. Severall miraculous accidents have hapned to the amazement of all those that have beene eye-witnesses thereof.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second impression with additions, and certificate from those who were eye witnesses thereof. Published according to order.</edition>
+               </editionStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Curiosities and wonders --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113743:1"/>
+            <pb facs="tcp:113743:1" rendition="simple:additions"/>
+            <p> FIVE VVONDERS SEENE IN ENGLAND.</p>
+            <list>
+               <item>Two at <hi>Barnſtable,</hi>
+               </item>
+               <item>One at <hi>Kirkham,</hi>
+               </item>
+               <item>One in <hi>Cornwall,</hi>
+               </item>
+               <item>One in <hi>Little Britain</hi> in <hi>London.</hi>
+               </item>
+            </list>
+            <p>In all which places <hi>Whereby Gods Judge<g ref="char:EOLhyphen"/>ments are miraculouſly ſeene upon ſome.</hi>
+            </p>
+            <p>SEVERALL Miraculous Accidents have hapned to the Amazement of all thoſe that have beene eye-witneſſes thereof.</p>
+            <p>
+               <hi>The Second Impreſſion with additions, and Certificate from thoſe who were eye witneſſes thereof.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed according to</hi> ORDER.</p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>J. C.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113743:2"/>
+            <pb n="1" facs="tcp:113743:2"/>
+            <div type="part">
+               <head>A Copie of a Paper which came from <hi>Exeter,</hi> incloſed in a Letter to an Eminent Officer of that Garriſon, a ve<g ref="char:EOLhyphen"/>ry honeſt Godly man) now in LONDON.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat the Sickneſſe being for a long time very te<g ref="char:EOLhyphen"/>dious in <hi>Barnſtable,</hi> ſome honeſt people met toge<g ref="char:EOLhyphen"/>ther twice a weeke, to pray the Lord for the re<g ref="char:EOLhyphen"/>moving of his hand of Viſitation from the Towne, ſome diſturbed them, and crying out they were <hi>INDEPENDANTS,</hi> Saying they were the cauſe of the Plague being amongſt them, threatning to turne them out of their Towne, this did not diſharten the honeſt people, bur they con<g ref="char:EOLhyphen"/>tinued ſtill in prayer, and divers of the other peo<g ref="char:EOLhyphen"/>ple, went from the houſe, (where they had abuſed them, throwing ſtones and railing on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem) to
+<pb n="2" facs="tcp:113743:3"/> their owne dwellings, and immediately fell ficck of the Plague, and they, and all their families dyed of the Plague within one weeke, which cauſeth moſt of the people of the Towne, to ſpeake well of the honeſt partie, and to take notice of the hand of GOD on the other, And which is to be ob<g ref="char:EOLhyphen"/>ſerved, not one family of thoſe railed againſt had not, Heither hath as yet, had any ſickeneſſe amongſt them, though it hath been on each hand next dore to them.</p>
+               <p>Another remarkable thing is, there was a wo<g ref="char:EOLhyphen"/>man in the Towne having the Sickneſſe, and being with Child dyed, but was delivered juſt as ſhee dyed, none could be gotten to bury her, untill the third day, and when they came in to bury her, they found the Child lying by it's Mother, and had ſucked the blood of it's Mother, and was then alive.</p>
+               <p>
+                  <hi>And all this is juſtified by the Deputie governour of</hi> Barnſta<g ref="char:EOLhyphen"/>ble, <hi>beſides the confirmation of many more honeſt people of that Town, So ſay the Letters from</hi> Exeter, <hi>(which is all I can ſay of it.)</hi>
+               </p>
+               <div type="part">
+                  <head>A Copie of a Certificate under the hand of Mr. <hi>Edward Fleetwood,</hi> Miniſter of <hi>Kirkham</hi> Pariſh in <hi>Lancaſhire,</hi> concerning the Monſter brought forth by Mrs <hi>Haughton,</hi> a Papiſt living in that Pariſh.</head>
+                  <p>AS we muſt tell no lie, ſo we ſhould conceal no truth; eſpecially when it tends to Gods glory: There was a great Papiſt, and of great parentage, within the Pariſh of <hi>Kirkham,</hi> and his wives mother being of the
+<pb n="3" facs="tcp:113743:3"/> ſame Religion, did uſually ſcoffe and mock the Round-heads, and in deriſion of Mr. <hi>Prinne,</hi> and others, cut off the Cats eares, and called it by his name: But behold an exam<g ref="char:EOLhyphen"/>ple of the Juſtice and equity of God in his judgements: As <hi>Adonibezec</hi> was repaid in his own kind: <hi>Haman</hi> han<g ref="char:EOLhyphen"/>ged upon the ſame gallowes he had prepared for <hi>Mordecai,</hi> and <hi>Pharaoh</hi> and all his Hoaſt drowned in the Sea into which hee had thought to have driven the Iſraelites. And likewiſe one of the Popiſh Prelates, who ſaid, hee would not dine before <hi>Ridley</hi> and <hi>Latimer</hi> were burnt, was burned in his own intrails. So (much what alike) it fell out with this mans wife, a Popiſh creature, who being great with child, when the time of her delivery came, ſhe brought forth a monſtrous child without an head, ugly and defor<g ref="char:EOLhyphen"/>med, the portracture whereof is printed, and my ſelfe ey<g ref="char:EOLhyphen"/>witneſſe thereof,</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Edward Fleetwood,</hi> Paſtor.</item>
+                           <item>
+                              <hi>W. Gattaker,</hi> Midwife.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="part">
+               <p>THe mother of this Monſter hath been often heard to curſe againſt Mr. <hi>Prinne,</hi> Mr. <hi>Burton,</hi> and Doctor <hi>Baſtwick,</hi> and the Roundheads. Alſo to revile the Parlia<g ref="char:EOLhyphen"/>ment, and ſay that ſhe thought that the King and the Bi<g ref="char:EOLhyphen"/>ſhops were the righter part of us; ſhe hath been heard to wiſh, that ſhe and hers might never live to be Roundheads, nor Separatiſts, and that ſhe hath praid to God, that ſhee might never live to ſee any of hers ſuch; and that the P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ritans and Independents deſerve all to be hanged: and ma<g ref="char:EOLhyphen"/>ny ſuch like expreſſions would often fall from her.</p>
+               <p>Amongſt the reſt, one ſpeech of hers was moſt notorious; and hath reſted in the memory of ſome Gentlewomen, and others that heard her when ſhe ſpake it; that being in com<g ref="char:EOLhyphen"/>pany with her, they fell to diſcourſe of the preſent miſeries of the Kingdom by theſe warres: and ſome ſpoke againſt
+<pb n="5" facs="tcp:113743:4"/> the Cavaliers and the Papiſts in the Kings Army; Where<g ref="char:EOLhyphen"/>upon thes Mrs <hi>Haughton,</hi> ſaid little leſſe againſt the Round-heads and Independents, and ſhe ſaid the King was in the right againſt them; ſhee was replied to, that thoſe called Round-heads were honeſt men, and in the right way of walking and living like the people of God, and ſuteable to the profeſſion of Chriſtians; and withall wiſhing, if it plea<g ref="char:EOLhyphen"/>ſed God that ſhe had her eyes opened, &amp; was ſuch a Round-head. No, ſaith ſhe, I had rather have no head, nor life: I nor any of mine, I hope, I hope, will ever be ſuch. Anſwer was made her, that her children, if ſhe had any, might (if God ſo pleaſe) have their eyes opened, and ſee that good which ſhe is ignorant of. Mrs <hi>Haughton</hi> made anſwer again in theſe words: <hi>I pray God that rather then I ſhal be a Round-head, oy bear a Round-head, I may bring forth a child without a head.</hi> This was a fearfull ſaying, and taken notice of by divers of her neighbours that heard her ſpeak it. And this many who know it, do apprehend, might be a great means to provoke God to ſhew ſuch a teſtimony of his diſpleaſure againſt her, by cauſing her to bring forth this Monſter, whoſe picture is in the Title page of this book.</p>
+               <p>Now for teſtimony of the truth of this, we ſhall give it you in order thus:</p>
+               <p>Her neighbours who heard her ſpeak the aforeſaid words, have been with Mr. <hi>Fleetwood</hi> the Miniſter of the Pariſh of <hi>Kirkham,</hi> where ſhe was brought to bed of this Monſter, and where it was buried alſo, and it was told to ſome of the the County, what had happened, and that ſhe had ſpoken thoſe words. And after that ſhe was with child, and delive<g ref="char:EOLhyphen"/>red of the Monſter, one widow <hi>Gattaker</hi> the Midwife, for<g ref="char:EOLhyphen"/>merly wife to Mr. <hi>Gattaker,</hi> ſometimes Vicar of the ſaid Pa<g ref="char:EOLhyphen"/>riſh, ſhe being a godly woman, could not bee eaſed in her mind, untill ſhe had diſchaaged her conſcince in making it known to Mr. <hi>Fleetwood</hi> the Miniſter aforeſaid; That ſhee had brought the ſaid Mrs <hi>Haughton</hi> to bed of a Monſter,
+<pb n="6" facs="tcp:113743:4"/> which had no head; declaring her opinion, that ſhee verily believed that it was the hand of God upon her for thoſe imprecations ſhe wiſhed upon herſelf, as is before expreſt: The Miniſter hee ſpoke of it to others, and ſo did the Mid<g ref="char:EOLhyphen"/>wife alſo, which made it to bee ſpred up and down the Countſey ſo that it came to the eares of ſome of the Com<g ref="char:EOLhyphen"/>mittee. And for the further ſatisfaction of the truth thereof, Colonell <hi>More,</hi> an honeſt godly Gentleman, a member of the Houſe of Commons, and one of the Committee being there, it was deſired he ſhould ſend a Letter to Mr <hi>Fleet<g ref="char:EOLhyphen"/>wood</hi> the Miniſter of the Pariſh, to know the certainty of it, whether it was truth or not: which letter was writ, and by him ſent ſent accordingly. And Mr <hi>Fleetwood</hi> reteiving the ſaid letter, ſent for the Mid-wife about it, and ſhe ſtill confirmed what ſhe ſaid before; yst for better ſatisfaction, Mr. <hi>Fleetwood</hi> cauſed the grave to be opened, and the child to be taken up, and laid to view, and found there a body without an head, as the Midwife had ſaid, only the child had a face upon the breaſt of it, Two eyes neer unto the place where the paps where uſually are, and a noſe upon tne cheſt, and a mouth a little above the navell, and two eares, upon each ſhoulder one.</p>
+               <p>Tae certificate was ſhewed before divers of the Com<g ref="char:EOLhyphen"/>mittee, and by Colonell <hi>More,</hi> a member of the Houſe of Commons, brought up to <hi>London,</hi> and ſhewed to divers of the Houſe; who have commanded it to be printed, ſo that all the Kingdome might ſee the hand of God herein: to the comfort of his people, and the terrour of the wicked that deride and ſcorn them.</p>
+               <p>A Gentleman was in the ſhop of one Mr. <hi>Munday</hi> a Pain<g ref="char:EOLhyphen"/>ter, who then lived in <hi>Little Brittain</hi> againſt <hi>Botolph</hi> Church, he was railing againſt Mr. <hi>Prinne,</hi> Mr. <hi>Burton,</hi> and Doctor <hi>Baſtwick;</hi> ſpeaking reproachfully of their ſufferings, and the loſſe of their eares, himſelfe wiping his head with his hand<g ref="char:EOLhyphen"/>carcher,
+<pb n="6" facs="tcp:113743:5"/> wiped blood from his owne eares, to the amazement of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> who were then preſent-</p>
+               <p>One Mr. <hi>Bret</hi> a Trumpeter of Sir <hi>Thomas Fairfaxes,</hi> be<g ref="char:EOLhyphen"/>ing in Sir <hi>Ralph Hoptons</hi> quarters with a Meſſage from the Generall, they having had ſome loſſes a day or two before, and conſidering that they failed of their owne expectations, (for they thought they had beene ſure to have had Forces from <hi>France, Ireland</hi> and <hi>Oxford,</hi> to have deſtroyed Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax,</hi>) but ſeeing Sir <hi>Thomas</hi> proſpered againſt them, one of the Cavaliers ſaid in Mr. <hi>Brets</hi> hearing, <hi>God dam him,</hi> (hee ſaid) <hi>what is there ſuch a change already,</hi> (quoth hee) <hi>God almighty was a Cavalier the laſt weeke, but now hee is turned Round-head,</hi> and the reſt of his fellow Souldiers made ſport at this expreſſion; and within about a weeke or two after all their Forces were ſubdued by Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
